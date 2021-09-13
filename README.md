@@ -1,2 +1,48 @@
-# Interview
-Interview process of Carryou
+## Interview process of Carryou
+
+Thanks for considering joining [Carryou](https://www.carryou.dev/), we keep our interview process open so you know what you need to prepare.
+
+The interview process should be iterative and interactive. 
+
+Whether it's a design doc, product prototype or marketing proposal, applicants got the chance to coordinate with Carryou member. 
+
+Most of the work is remote position, great communication and clear writing skills is crucial at Carryou.
+
+Don't try to finish the project in one submission, send email or push commit every 3-5 days when you have progress. 
+
+We are not the believer of perfectionism but gradually improvement.
+
+By working on litte progress, we can review your work and give feed back in time. 
+
+Please check the scenario in which department you're applying.
+
+### Marketing 
+
+In Carryou, we are dedicated to redesign learning experience by providing high quality courses and tools.
+
+Notice the trend of personal branding in the era of 202X, Carryou is planning a course to teach people how to get more potential customers by making memes and gifs.
+
+Please come up with a marketing proposal that helps Carryou promote the course.
+
+Goal: Review your real world marketing strategy and execution capacity.
+
+Format: Google doc or Github repo. Collaboration tools help remote team members stay up to date with your progress.
+
+Metrics: 
+
+Reminder:
+* Use direct indication instead of abstract reference. ex. ❌ Post on forum ✔️ Post on XXX forum 
+* The proposal you came up with should be executable (presumably by you). Refrain unrealistic approach like gaining customers with $10M ads, every penny counts in startup 😎
+* Feel free to contact with your interviewer if you have any questions.
+
+### Sales / Business Development
+
+
+
+### Film / Post-production
+
+### Art / Design
+
+### Engineering
+
+### Education
