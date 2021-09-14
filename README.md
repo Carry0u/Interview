@@ -18,7 +18,7 @@ By working on litte progress, we can review your work and give feed back in time
 
 Q: Why do you reveal your interview content?
 
-A: We believe by providing scenario that is relevance to Carryou's roadmap help candadiate get to know our culture better. The task is open-ended so don't be limit to certain solution, coordinate with Carryou interviewer to show your potential.
+A: We believe by providing scenario that is relevance to Carryou's roadmap help candadiate get to know our culture better. The task is open-ended so don't be limited to certain solution, coordinate with Carryou interviewer to show your potential.
 
 <br />
 
@@ -50,9 +50,9 @@ Please come up with a marketing proposal that helps Carryou promote the course.
 * Focus on local market first, expand globally if you have time.
 * Feel free to contact with your interviewer if you have any questions.
 
+<br />
+
 ### Sales / Business Development
-
-
 
 ### Film / Post-production
 
