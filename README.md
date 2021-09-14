@@ -14,7 +14,15 @@ We are not the believer of perfectionism but gradually improvement.
 
 By working on litte progress, we can review your work and give feed back in time. 
 
-Please check the scenario in which department you're applying.
+## Q&A
+
+Q: Why do you reveal your interview content?
+
+A: We believe by providing scenario that is relevance to Carryou's roadmap help candadiate get to know our culture better. The task is open-ended so don't be limit to certain solution, coordinate with Carryou interviewer to show your potential.
+
+<br />
+
+Please check the scenario in which department you're applying for.
 
 ### Marketing 
 
@@ -24,15 +32,22 @@ Notice the trend of personal branding in the era of 202X, Carryou is planning a 
 
 Please come up with a marketing proposal that helps Carryou promote the course.
 
-Goal: Review your real world marketing strategy and execution capacity.
+**Goal**: Review your real world marketing strategy and execution capacity.
 
-Format: Google doc or Github repo. Collaboration tools help remote team members stay up to date with your progress.
+**Format**: Google doc or Github repo. Collaboration tools help remote team members stay up to date with your progress.
 
-Metrics: 
+**Metrics**: 
+* Growth
+* Cost ($, human)
+* Viral effect
+* Detail
 
-Reminder:
+**Duration**: 2 weeks
+
+**Reminder**:
 * Use direct indication instead of abstract reference. ex. ❌ Post on forum ✔️ Post on XXX forum 
 * The proposal you came up with should be executable (presumably by you). Refrain unrealistic approach like gaining customers with $10M ads, every penny counts in startup 😎
+* Focus on local market first, expand globally if you have time.
 * Feel free to contact with your interviewer if you have any questions.
 
 ### Sales / Business Development
@@ -46,3 +61,5 @@ Reminder:
 ### Engineering
 
 ### Education
+
+If you did not find a position that matches your interest, shoot us an email at carreer@carryou.dev 👍
