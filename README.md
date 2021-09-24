@@ -20,6 +20,14 @@ Q: Why do you reveal your interview content?
 
 A: We believe by providing scenario that is relevance to Carryou's roadmap help candadiate get to know our culture better. The task is open-ended so don't be limited to certain solution, coordinate with Carryou interviewer to show your potential.
 
+As a reminder, send email to notice your interviewer when you have progress (every 3 ~ 5 days should be good). 
+
+Interviewer will based on applicant's work to come up with additional inquiries. 
+
+10 applicants will produce 10 different results. 
+
+We are not looking for canonical answers, but how applicants tackle problems and execute work.
+
 <br />
 
 Please check the scenario in which department you're applying for.
